@@ -2,11 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *
  * main - main block
- *
- * return: (0)
- *
+ * Description: Get a random number and checks its last digit, compare it with 5
+ * return: 0
  */
 int main(void)
 {
